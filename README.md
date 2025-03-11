@@ -17,6 +17,6 @@ Welcome to the CodSoft Java Development Internship repository! This repository d
 # Task 5: Student Management System
 - Manage students with Student and
 - StudentManagementSystem classes.
-- # @codsoft
+ # @codsoft
   # #CodSoft
   # #Internship
